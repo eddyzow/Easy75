@@ -1,10 +1,22 @@
-*Total hours spent: 6* | *Date started: 24 May 2025*
+*Total hours spent: 8* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
 
-## entry #1 - 5/27
+## entry #2
+PCB ORGANIZED??
+here is what it looks like, with all the LEDs added, parts positioned, and ready for wiring:'
+
+![image](https://github.com/user-attachments/assets/870b6ef6-6502-4a02-8e55-9e695e03f563)
+
+
+i'm still not fully sure what i actually have to solder vs what jlcpcb will do... hopefully i don't receive the pcb and then realize i don't have the necessary parts!!!
+also i don't know where stabilizers go on the pcb yet... i'll figure this out with some research. for now the pcb is doing just fine!
+
+also, the wiring is going to be hell but i'll get through it. i have 516 paths i have to route 💀
+
+## entry #1 - 5/26
 
 i'm back from vacation! as soon as i got home i got to work creating the first version of easy75. i was able to get the entire schematic and some of the pcb done. here's a preview:
 
