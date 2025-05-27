@@ -4,7 +4,7 @@
 # Easy75
 _because sometimes nine keys isn't enough..._
 
-## entry #2
+## entry #2 - 5/27
 PCB ORGANIZED??
 here is what it looks like, with all the LEDs added, parts positioned, and ready for wiring:'
 
