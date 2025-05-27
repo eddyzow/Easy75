@@ -1,4 +1,4 @@
-*Total hours spent: 8* | *Date started: 24 May 2025*
+*Total hours spent: 9* | *Date started: 24 May 2025*
 
 ---
 # Easy75
@@ -6,10 +6,9 @@ _because sometimes nine keys isn't enough..._
 
 ## entry #2 - 5/27
 PCB ORGANIZED??
-here is what it looks like, with all the LEDs added, parts positioned, and ready for wiring:
+here is what it looks like, with all the LEDs added, parts positioned, and about 20% done with wiring:
 
-![image](https://github.com/user-attachments/assets/870b6ef6-6502-4a02-8e55-9e695e03f563)
-
+![image](https://github.com/user-attachments/assets/055a1d67-13d2-45a8-9196-b8b68c250b7c)
 
 i'm still not fully sure what i actually have to solder vs what jlcpcb will do... hopefully i don't receive the pcb and then realize i don't have the necessary parts!!! i think from my current knowledge i have to solder the diodes and the switch sockets
 also i don't know where stabilizers go on the pcb yet... i'll figure this out with some research. for now the pcb is doing just fine!
