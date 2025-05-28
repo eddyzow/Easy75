@@ -5,7 +5,8 @@
 _because sometimes nine keys isn't enough..._
 
 ## entry #3 - 5/28
-PCB WIRED UP
+PCB WIRED UP!!
+
 after a buttload of painstaking work that took multiple hours, the pcb is wired up! all that's left is to create holes for stabilizers, CAD the case, and ship! here's a pic of the final design (i am quite bad at wiring so yes it is a little messy):
 
 ![image](https://github.com/user-attachments/assets/d581f00b-c179-4b09-851a-0e7dfb78bde2)
