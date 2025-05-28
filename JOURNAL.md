@@ -12,6 +12,8 @@ after a buttload of painstaking work that took multiple hours, the pcb is wired 
 
 i really really really hope the finished product will work. this is going to involve tons and tons of soldering, and i've also never soldered more than just a few chips for my old robots -- this is taking it to the next level...
 
+i'm also deciding on what switches/keycaps/stabs will be used. in order to save hack club's precious dollars i will use akko creamy blue pro v3 switches ($0.29 per switch) -- in the past i have had an excellent experience with akko switches as they are super cheap and ridiculously good sounding for the price. for stabs i'll use durock v3 and for keycaps i will try to find a solution but since i want this keyboard to be the very best i may splurge and get a set of GMKs on my own budget. i think i will cast my case out of resin with a 3d printed (?) mold or use acrylic. 
+
 ## entry #2 - 5/27
 PCB ORGANIZED??
 here is what it looks like, with all the LEDs added, parts positioned, and about 20% done with wiring:
