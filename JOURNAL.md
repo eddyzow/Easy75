@@ -1,8 +1,14 @@
-*Total hours spent: 14* | *Date started: 24 May 2025*
+*Total hours spent: 18* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #4 - 5/29
+
+![image](https://github.com/user-attachments/assets/5c2c175e-1ec1-4b73-94ab-76c796776c98)
+
+as soon as i got home i got to work on onshape -- much work has been done on the CAD. i've created the main board (which should be cast in resin) and have the pcb being mounted on rubber gasket strips. i now need to create the plate, which must have the proper stabilizer holes to work properly. i'm really happy with where this is going and if i spend a little more time i'll have a solid design that i can get shipped off. i've decided to use pololu's laser cutting service to get an acetal switch plate machined -- hopefully this acts similarly to polycarbonate and delivers the THOCK typing sound we all love.
 
 ## entry #3 - 5/28
 PCB WIRED UP!!
