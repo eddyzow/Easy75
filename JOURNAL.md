@@ -1,8 +1,18 @@
-*Total hours spent: 18* | *Date started: 24 May 2025*
+*Total hours spent: 25* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #5 - 5/31
+
+it's been a busy few days -- today was my last ever day of high school!! and even amongst the bittersweet goodbyes and yearbook signings ahead of an even busier graduation week lies my work on Easy75!
+
+![image](https://github.com/user-attachments/assets/86acc884-ac14-4f03-9f6a-c18b4971caca)
+
+I spent the day creating the PCB plate in CAD, which must be 1.5 mm thick. I will use pololu's laser cutting service to get this machined. this plate neatly fits into the case, holds the switches, and provides a snug typing sound while separating the electronics from my grubby fingers. i used ai03's plate generator and keyboard-layout-editor.com to generate the DXF file for the keyboard layout. I really, really, REALLY am starting to love how this is looking. And I think I'm working so fast that I might be able to get this produced and built in less than a month!
+
+and the final result looks like it might be coming to fruition... look at the image above!
 
 ## entry #4 - 5/29
 
