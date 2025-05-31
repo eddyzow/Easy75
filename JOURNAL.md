@@ -1,8 +1,12 @@
-*Total hours spent: 25* | *Date started: 24 May 2025*
+*Total hours spent: 26* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #6 - 5/31
+
+i've finished everything on the hardware end for this small but also big project! i did have some strange problems on onshape as my document completely broke -- it stopped loading when i tried to change an appearance and even after reverting it wouldn't load anymore. so I had to export each individual part, copy to a new document, and delete the old document. i am now uploading all the hardware parts to this repo. it's 3:58 am while i'm typing this and i think i'll go to sleep once i finish writing at least some of the firmware (something is wrong with me).
 
 ## entry #5 - 5/31
 
