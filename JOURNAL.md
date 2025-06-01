@@ -1,8 +1,14 @@
-*Total hours spent: 32* | *Date started: 24 May 2025*
+*Total hours spent: 33* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #9 - 6/1
+
+Easy75 is done being designed!!
+
+the firmware honestly was not hard at all to code -- i just copied what i had from my macropad (ezpad) and extrapolated it to fit my new 84-key grid. i've attached it to the repository. and now i will be submitting this for review. once i get my grant i'll go purchase the parts and put it together!
 
 ## entry #8 - 6/1
 
