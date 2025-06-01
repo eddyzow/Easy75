@@ -12,6 +12,8 @@ the hardware is officially done!!
 
 mounting holes are added. the firmware shouldn't be too bad to code -- once it's done i will submit to get my grant to build! i'd like to explore how i can get jlcpcb to solder some of the components because i am NOT at all confident in my soldering ability especially when soldering is quite painstaking and i would have to solder multiple wires for each switch... hundreds of connections. i will, however, have to solder the surface-mount LEDs manually. 
 
+also, i got rid of the sloped angle because it's hard to machine and it got in the way of the mounting holes. i might make something later for ergonomics
+
 ## entry #7 - 6/1
 
 happy june! i've realized i made a huge mistake when i have no mounting holes in my PCB. turns out that the guy who made the footprint and symbol pack i used (scottokeebs) uses plate mounted stabilizers... but the plate-building tool i used clearly does not support plate mounted stabilizers and assumes that i am using PCB-mounted stabilizers. i had to go back and search across the internet to find out where the pcb mounting holes were supposed to go. i felt really stupid at the end because i discovered that you didn't actually need to place footprints by attaching them to schematic symbols but you could actually just place them directly on the PCB. and lo and behold, scottokeebs had a set of footprints with stabilizer holes that i didn't see earlier. this took SO LONG!!! not to mention that i had many many MANY wires running through the area where the mounting holes are, and i had to reroute them all.
