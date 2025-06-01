@@ -1,8 +1,16 @@
-*Total hours spent: 26* | *Date started: 24 May 2025*
+*Total hours spent: 31* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #7 - 6/1
+
+happy june! i've realized i made a huge mistake when i have no mounting holes in my PCB. turns out that the guy who made the footprint and symbol pack i used (scottokeebs) uses plate mounted stabilizers... but the plate-building tool i used clearly does not support plate mounted stabilizers and assumes that i am using PCB-mounted stabilizers. i had to go back and search across the internet to find out where the pcb mounting holes were supposed to go. i felt really stupid at the end because i discovered that you didn't actually need to place footprints by attaching them to schematic symbols but you could actually just place them directly on the PCB. and lo and behold, scottokeebs had a set of footprints with stabilizer holes that i didn't see earlier. this took SO LONG!!! not to mention that i had many many MANY wires running through the area where the mounting holes are, and i had to reroute them all.
+
+but finally I think I'll be able to submit soon! just figuring out mounting holes and then firmware. i also downgraded the board from gasket-mount to a normal top plate mount since the whole point is that it is an "easy" first board. a future board will be gasket-mount. also currently there is no "secure" connection between the plate and the pcb except the switches -- i need to get this mounted as well. but that's something for tomorrow!
+
+![image](https://github.com/user-attachments/assets/e3728ead-758a-4dce-87b3-459839278b3c)
 
 ## entry #6 - 5/31
 
