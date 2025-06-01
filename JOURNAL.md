@@ -1,8 +1,16 @@
-*Total hours spent: 31* | *Date started: 24 May 2025*
+*Total hours spent: 32* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #8 - 6/1
+
+the hardware is officially done!!
+
+![image](https://github.com/user-attachments/assets/4c3bdbb5-bbd6-4dec-8a9b-db7a4c616352)
+
+mounting holes are added. the firmware shouldn't be too bad to code -- once it's done i will submit to get my grant to build! i'd like to explore how i can get jlcpcb to solder some of the components because i am NOT at all confident in my soldering ability especially when soldering is quite painstaking and i would have to solder multiple wires for each switch... hundreds of connections. i will, however, have to solder the surface-mount LEDs manually. 
 
 ## entry #7 - 6/1
 
