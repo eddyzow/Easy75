@@ -16,7 +16,10 @@ i also added a 4.5 degree incline for ergonomics... and the case is no longer ju
 
 as a result i've had to cad a separate top case for the keyboard.. but that's not a big problem! 
 
-![image](https://github.com/user-attachments/assets/a9200213-6cd7-4519-a274-331ab063d7d4)
+![image](https://github.com/user-attachments/assets/a9200213-6cd7-4519-a274-331ab063d7d4) (the board!)
+
+![image](https://github.com/user-attachments/assets/95a1883b-138b-4d07-93f7-aaa001da81fc) (gasket strips -- there will actually be more but I added a short strip in the CAD for clearance purposes)
+
 
 and now I can finally say it's done. looking forward to getting the parts and putting this baby together
 
