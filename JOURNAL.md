@@ -20,8 +20,9 @@ as a result i've had to cad a separate top case for the keyboard.. but that's no
 
 ![image](https://github.com/user-attachments/assets/95a1883b-138b-4d07-93f7-aaa001da81fc) (gasket strips -- there will actually be more but I added a short strip in the CAD for clearance purposes)
 
+and now I can finally say it's done. looking forward to getting the parts and putting this baby together!!
 
-and now I can finally say it's done. looking forward to getting the parts and putting this baby together
+(approx. 3hr spent in this session)
 
 ## entry #9 - 6/1
 
