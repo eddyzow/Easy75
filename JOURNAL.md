@@ -1,8 +1,24 @@
-*Total hours spent: 33* | *Date started: 24 May 2025*
+*Total hours spent: 36* | *Date started: 24 May 2025*
 
 ---
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #10 - 6/5
+
+after review, the case is too simple to be accepted as a highway project... so I redesigned the whole thing!
+
+introducing Easy75 v2, which is even crazier than ever!
+
+the keyboard is now gasket mounted. i did this by layering some rubber gasket material around the outside of the bottom case. by screwing the plate into the case, it must sit on top of this gasket material. this should do wonders for the keyboard's sound profile!
+
+i also added a 4.5 degree incline for ergonomics... and the case is no longer just a box!
+
+as a result i've had to cad a separate top case for the keyboard.. but that's not a big problem! 
+
+![image](https://github.com/user-attachments/assets/a9200213-6cd7-4519-a274-331ab063d7d4)
+
+and now I can finally say it's done. looking forward to getting the parts and putting this baby together
 
 ## entry #9 - 6/1
 
