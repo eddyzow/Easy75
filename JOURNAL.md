@@ -4,6 +4,16 @@
 # Easy75
 _because sometimes nine keys isn't enough..._
 
+## entry #11 - 6/12
+
+it's been a week and a very hectic one at that. I graduated high school! and now I have some bad news to share about Easy75.
+
+I'm getting rid of the RGB to cut costs -- this cost a significant amount of the project and I also don't have the experience nor time to put it together. 
+
+the PCB costs are way higher than I had initially expected -- both JLC and PCBWay had given me lower costs initially upfront and that is what I had put into the BOM. however, upon hitting checkout, they surprised me with a bunch of extra costs, increased shipping fees, and tariffs which i had initially expected to be part of the board cost.
+
+thus, i've had to make this difficult decision -- but i hope that easy75 will still be a big success! 
+
 ## entry #10 - 6/5
 
 after review, the case is too simple to be accepted as a highway project... so I redesigned the whole thing!
