@@ -4,6 +4,16 @@
 # Easy75
 _because sometimes nine keys isn't enough..._
 
+## entry #12 - 6/13
+
+i've finally fixed Easy75 to not have RGB! and as another cost-cutting measure, i'm going to 3D print my switch plate. it shouldn't be too bad lol
+
+![image](https://github.com/user-attachments/assets/00811934-add2-4e59-8ef4-7c931a5645b2)
+
+also, all the parts are now fully purchased. and i'll return the LEDs i don't need anymore.
+
+thanks to a godly blessing (alex ren) JLCPCB is actually $30 cheaper than i had expected!! and thus i only needed to pay $37 to JLC for my PCB instead of $180 to PCBWay (sheesh man!!) 
+
 ## entry #11 - 6/12
 
 it's been a week and a very hectic one at that. I graduated high school! and now I have some bad news to share about Easy75.
