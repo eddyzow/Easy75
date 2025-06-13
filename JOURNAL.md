@@ -1,4 +1,4 @@
-*Total hours spent: 36* | *Date started: 24 May 2025*
+*Total hours spent: 40* | *Date started: 24 May 2025*
 
 ---
 # Easy75
@@ -13,6 +13,8 @@ i've finally fixed Easy75 to not have RGB! and as another cost-cutting measure, 
 also, all the parts are now fully purchased. and i'll return the LEDs i don't need anymore.
 
 thanks to a godly blessing (alex ren) JLCPCB is actually $30 cheaper than i had expected!! and thus i only needed to pay $37 to JLC for my PCB instead of $180 to PCBWay (sheesh man!!) 
+
+(approx. 4hr spent in this session)
 
 ## entry #11 - 6/12
 
