@@ -1,3 +1,10 @@
+---
+title: "Easy75"
+author: "Eddy Zhao (@eddyzow)"
+description: "A custom 75% gasket-mounted mechanical keyboard run with a Raspberry Pi Pico. Features include 4.5-degree ergonomic incline, switch hotswap, custom laser-cut acrylic plate 1.3" OLED screen, custom firmware, rotary encoder, custom printed circuit board (PCB), lubricated switches and stabilizers, and more!"
+created_at: "2025-05-24"
+---
+
 *Total hours spent: 40* | *Date started: 24 May 2025*
 
 ---
