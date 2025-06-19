@@ -7,7 +7,6 @@ created_at: "2025-05-24"
 
 *Total hours spent: 40* | *Date started: 24 May 2025*
 
----
 # Easy75
 _because sometimes nine keys isn't enough..._
 
