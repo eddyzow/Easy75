@@ -1,3 +1,10 @@
+---
+title: "Easy75"
+author: "Eddy Zhao (@eddyzow)"
+description: "A custom, feature-rich 75% gasket-mounted mechanical keyboard run with a Raspberry Pi Pico."
+created_at: "2025-05-24"
+---
+
 *Total hours spent: 40* | *Date started: 24 May 2025*
 
 # Easy75
