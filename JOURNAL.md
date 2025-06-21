@@ -5,10 +5,28 @@ description: "A custom, feature-rich 75% gasket-mounted mechanical keyboard run 
 created_at: "2025-05-24"
 ---
 
-*Total hours spent: 40* | *Date started: 24 May 2025*
+*Total hours spent: 52* | *Date started: 24 May 2025*
 
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #13 - 6/21
+
+it's been a grueling last two days. i've spent so so many hours trying to make this work, but i keep making terrible mistakes along the way. I soldered the raspberry pi pico on backwards after taking three hours to solder all the diodes and kailh sockets. the plate isn't strong enough and the switches are weakly housed in the sockets. furthermore, I then had to dremel the incorrectly soldered pico off the PCB because there was no possible way to desolder (even with a solder sucker). 
+
+I finally finished putting the electronics together today. somehow the raspberry pi pico was not completely destroyed and i was able to load my code onto it. however, errors upon errors continued due to many of the pins being completely killed by my reverse soldering. the I2C from the board didn't find the OLED screen because the connection was too weak and there were no pull-up resistors (i thought these were part of the screen). the rotary encoder wouldn't work no matter what i tried. and when plugged in, the keyboard would randomly send inputs for random keys, with ghosting like crazy -- even though i had soldered 84 diodes to avoid this. typing one key would cause an entire column to be inputted, and some keys didn't work at all. here's a screenshot of the working key map for the board:
+
+![image](https://github.com/user-attachments/assets/39f514c6-8c63-465a-82d2-6095e9e9b99e)
+
+as you can see, not many of the keys work. 
+
+i would really have loved to type this journal entry on my new keyboard, but i'm out of budget. i've spent so much extra money out of pocket on this project and I am tired and want to give up.
+
+but I shouldn't give up! i had two goals when i started this project: to create a work of art that sounds amazing, and also to create a functional keyboard. while one of those goals is no longer possible, the other is completely up for grabs and the functionality doesn't change the fact that it does sound great. i will be making a video of the project when i finish and submit it. even though it doesn't work, it was still a great first try at making a board, and i learned a lot! and i'm sure the next time i will make a keyboard, i'll be able to get it right... granted i don't reverse solder the microcontroller.
+
+![image](https://github.com/user-attachments/assets/05f295ff-6c53-482c-8eb0-23d680a32cb5)
+
+_hours spent during session: about 12 hours_
 
 ## entry #12 - 6/13
 
