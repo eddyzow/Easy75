@@ -21,6 +21,7 @@ some final pictures and a sound test:
 ![image](https://github.com/user-attachments/assets/ff1d0397-0a16-4dc5-a085-193459c8a53c)
 ![image](https://github.com/user-attachments/assets/787cace3-3fe4-442a-87d7-bcea9cb0c205)
 ![image](https://github.com/user-attachments/assets/e822f602-3317-46e8-b09b-49cc46fb0e5d)
+![image](https://github.com/user-attachments/assets/e473a912-7f04-4c1a-a078-2a01bf1f2be6)
 ![image](https://github.com/user-attachments/assets/faa09bd5-c77b-43a7-9b6b-1634680ae53c)
 ![image](https://github.com/user-attachments/assets/6c45d9ef-dceb-40ed-9566-c7855e604e2d)
 ![image](https://github.com/user-attachments/assets/01b22a00-8f02-4b77-b1d3-81aa750fa440)
