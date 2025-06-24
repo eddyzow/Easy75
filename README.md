@@ -4,6 +4,10 @@
 
 A custom 75% gasket-mounted mechanical keyboard run with a Raspberry Pi Pico. Features include 4.5-degree ergonomic incline, switch hotswap, custom laser-cut acrylic plate 1.3" OLED screen, custom firmware, rotary encoder, custom printed circuit board (PCB), lubricated switches and stabilizers, and more! Created for Hack Club's Highway program.
 
+[Easy75 Sound Test - Stock Akko V3 Creamy Blue Pro, Stock Durock V3](https://youtu.be/ZoHuPwVao3s)
+
+![image](https://github.com/user-attachments/assets/bc434359-9ab3-437f-8e72-ba96b97aae7d)
+![image](https://github.com/user-attachments/assets/d8f5390d-624d-4486-b35d-88457702ff98)
 ![image](https://github.com/user-attachments/assets/75e6ce5d-9cae-483d-9827-7c4103e7ac6e)
 ![image](https://github.com/user-attachments/assets/96410c71-d4eb-45b5-ae00-107d005f30d8)
 
