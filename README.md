@@ -11,6 +11,9 @@ A custom 75% gasket-mounted mechanical keyboard run with a Raspberry Pi Pico. Fe
 ![image](https://github.com/user-attachments/assets/75e6ce5d-9cae-483d-9827-7c4103e7ac6e)
 ![image](https://github.com/user-attachments/assets/96410c71-d4eb-45b5-ae00-107d005f30d8)
 
+# Gasket Mount
+![image](https://github.com/user-attachments/assets/0a8f14fa-cff0-411c-bdf7-8f11df49c3ae)
+
 # PCB (designed and wired with KiCad)
 
 ![image](https://github.com/user-attachments/assets/18f2e7da-f240-458e-9201-fef4da8b7624)
