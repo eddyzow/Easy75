@@ -5,10 +5,28 @@ description: "A custom, feature-rich 75% gasket-mounted mechanical keyboard run 
 created_at: "2025-05-24"
 ---
 
-*Total hours spent: 52* | *Date started: 24 May 2025*
+*Total hours spent: 53* | *Date started: 24 May 2025*
 
 # Easy75
 _because sometimes nine keys isn't enough..._
+
+## entry #14 - 6/23
+
+and with that, the Easy75 project is now complete!
+
+some final pictures and a sound test:
+
+[Easy75 Sound Test - Stock Akko V3 Creamy Blue Pro, Stock Durock V3](https://youtu.be/ZoHuPwVao3s)
+
+![image](https://github.com/user-attachments/assets/ff1d0397-0a16-4dc5-a085-193459c8a53c)
+![image](https://github.com/user-attachments/assets/787cace3-3fe4-442a-87d7-bcea9cb0c205)
+![image](https://github.com/user-attachments/assets/e822f602-3317-46e8-b09b-49cc46fb0e5d)
+![image](https://github.com/user-attachments/assets/faa09bd5-c77b-43a7-9b6b-1634680ae53c)
+![image](https://github.com/user-attachments/assets/6c45d9ef-dceb-40ed-9566-c7855e604e2d)
+![image](https://github.com/user-attachments/assets/01b22a00-8f02-4b77-b1d3-81aa750fa440)
+
+
+although I bet nobody will read this, if you are, thanks for looking at my engineering design process. i hope that i'll learn how to engineer better stuff in college.
 
 ## entry #13 - 6/21
 
